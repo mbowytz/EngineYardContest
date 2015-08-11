@@ -1,0 +1,93 @@
+Msg:behLendOrF reSt IwATAnI neSTed OBJECts aWk glOb lASt mciLRoY RejEWsKI HtTPs
+ngiNX WL!h3
+SHA:4349cc85c6680a6b14f7ae09aaf84c20a12fd8a3
+Hamming Distance:45
+
+
+=============================
+Seconds Elapsed:62.000000
+Calcs Per Second:806.451613
+
+=============================
+Seconds Elapsed:63.000000
+Calcs Per Second:793.650794
+
+=============================
+Seconds Elapsed:63.000000
+Calcs Per Second:793.650794
+
+=============================
+Seconds Elapsed:63.000000
+Calcs Per Second:793.650794
+
+=============================
+Seconds Elapsed:62.000000
+Calcs Per Second:806.451613
+
+=============================
+Seconds Elapsed:63.000000
+Calcs Per Second:793.650794
+
+=============================
+Seconds Elapsed:62.000000
+Calcs Per Second:806.451613
+
+=============================
+Seconds Elapsed:62.000000
+Calcs Per Second:806.451613
+
+=============================
+Seconds Elapsed:62.000000
+Calcs Per Second:806.451613
+
+=============================
+Seconds Elapsed:62.000000
+Calcs Per Second:806.451613
+
+=============================
+Seconds Elapsed:63.000000
+Calcs Per Second:793.650794
+
+=============================
+Seconds Elapsed:64.000000
+Calcs Per Second:781.250000
+
+=============================
+Seconds Elapsed:64.000000
+Calcs Per Second:781.250000
+
+=============================
+Seconds Elapsed:64.000000
+Calcs Per Second:781.250000
+
+=============================
+Seconds Elapsed:64.000000
+Calcs Per Second:781.250000
+
+=============================
+Seconds Elapsed:65.000000
+Calcs Per Second:769.230769
+
+=============================
+Seconds Elapsed:63.000000
+Calcs Per Second:793.650794
+
+=============================
+Seconds Elapsed:63.000000
+Calcs Per Second:793.650794
+
+=============================
+Seconds Elapsed:64.000000
+Calcs Per Second:781.250000
+
+=============================
+Seconds Elapsed:63.000000
+Calcs Per Second:793.650794
+
+=============================
+Seconds Elapsed:63.000000
+Calcs Per Second:793.650794
+
+=============================
+Seconds Elapsed:65.000000
+Calcs Per Second:769.230769

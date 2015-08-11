@@ -1,0 +1,19 @@
+Msg:WOOD wINDOw DirT THrew pAPER hAIR ThOUGh rOde LEaN enCoMpASS reD tuesdAy gb5A/
+SHA:b04dc7d771786767302def062928fc8bd17bd975
+Hamming Distance:45
+
+Msg:muG FilE monkEY TUBA enGINE TUESday MeaT SnACK stAR MusHROoM pEpSI WhAlE Ny?(-
+SHA:7118d1b7f763e8d6201b9c8369e07062a4d31990
+Hamming Distance:45
+
+Msg:MushRoom fisH RoDe sTEer MIcRosOFT aPPLE baThROOM THrEw snACk beET braNCh ReFURBiSH U&0Os
+SHA:5215ecb1766a6345b4798604798d918201d3b889
+Hamming Distance:44
+
+Msg:FRIdAy WEDNesdaY baBY mAgNeT FeEL fUlL Hat mE thiS OranGe BoAt EnCoMpaSS 300Oi
+SHA:1c6d82a4b5f808991e79892a65e0e80610bbf589
+Hamming Distance:43
+
+Msg:VaCatiOn COmb cOPY sMOKE wAlRuS saIL hoOd brEaKfAsT PLease open hooD AcTIon N+1<;
+SHA:0ac9f421f978264e005d86b87ffde886c0eb89ac
+Hamming Distance:39
